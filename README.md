@@ -4,6 +4,13 @@ A new polyphonic evaluation set curated for Automatic Lyrics Transcription (ALT)
 
 This repository contains a tutorial to retrieve the recordings used in the paper "MSTRE-Net: Multistreaming Acoustic Modeling for Automatic Lyrics Transcription"
 
+
+<p align="center">
+    <img src="https://github.com/emirdemirel/DALI-TestSet4ALT/images/years.png?raw=true" width="250" height="310">
+</p>
+
+
+
 More information will be provided soon...
 
 Please cite
