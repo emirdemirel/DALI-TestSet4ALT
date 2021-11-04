@@ -6,7 +6,7 @@ This repository contains a tutorial to retrieve the recordings used in the paper
 
 
 <p align="center">
-    <img src="https://github.com/emirdemirel/DALI-TestSet4ALT/blob/master/images/years.pdf" width="250" height="310">
+    <img src="https://github.com/emirdemirel/DALI-TestSet4ALT/blob/master/images/tab_data.png" width="250" height="310">
 </p>
 
 
