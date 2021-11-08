@@ -1,4 +1,4 @@
-# DALI_TestSet4ALT
+# DALI_TALT
 
 A new polyphonic evaluation set curated for Automatic Lyrics Transcription (ALT) research. The dataset contains 240 songs in English language that are released in various decades and music styles. 
 
@@ -9,6 +9,13 @@ This repository contains a tutorial to retrieve the recordings used in the paper
     <img src="https://github.com/emirdemirel/DALI-TestSet4ALT/blob/master/images/tab_data.png" width="250" height="310">
 </p>
 
+### Installaton
+
+To be able to retrieve the audio as in the tutorial, you need to install the python packages in ```requirements.txt```:
+
+```
+pip install -r requirements.txt
+```
 
 
 More information will be provided soon...
