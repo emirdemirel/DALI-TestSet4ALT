@@ -1,0 +1,6 @@
+numpy
+pandas
+youtubesearchpython
+youtube_dl
+unidecode
+notebook
