@@ -5,9 +5,6 @@ A new polyphonic evaluation set curated for Automatic Lyrics Transcription (ALT)
 This repository contains a tutorial to retrieve the recordings used in the paper "MSTRE-Net: Multistreaming Acoustic Modeling for Automatic Lyrics Transcription"
 
 
-<p align="center">
-    <img src="images/tab_data.jpg" width="250" height="310">
-</p>
 
 
 ![Alt text](images/tab_data.jpg "Optional Title")
