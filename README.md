@@ -14,7 +14,7 @@ The dataset contains 240 songs in English language that are released in various 
 
 
 
-![Alt text](images/years.pdf "Distribuation of release years")
+![Alt text](images/years.png "Distribuation of release years")
 
 
 In the Jupyter notebook, ```Tutorial_DALI_TestSet4ALT.ipynb```, you will find a tutorial to retrieve the audios in DALI-TALT.
