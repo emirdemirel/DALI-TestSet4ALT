@@ -6,11 +6,11 @@ This repository contains a tutorial to retrieve the recordings used in the paper
 
 
 <p align="center">
-    <img src="https://github.com/emirdemirel/DALI-TestSet4ALT/blob/master/images/tab_data.jpg" width="250" height="310">
+    <img src="images/tab_data.jpg" width="250" height="310">
 </p>
 
 
-![Alt text](https://github.com/emirdemirel/DALI-TestSet4ALT/blob/master/images/tab_data.jpg "Optional Title")
+![Alt text](images/tab_data.jpg "Optional Title")
 
 
 ### Installation
