@@ -2,7 +2,7 @@
 
 A new polyphonic evaluation set curated for Automatic Lyrics Transcription (ALT) research which was introduced in the paper "MSTRE-Net: Multistreaming Acoustic Modeling for Automatic Lyrics Transcription". 
 
-The statistics of DALI-TALT and other evaluation sets used in ALT research (in English language) are given below:
+The statistics of DALI-TALT and other evaluation sets used in ALT research (in English language) are given below (2nd row from top):
 
 ![Alt text](images/tab_data.jpg "Statistics of DALI-TALT compared to other test sets used in lyrics transcription research (including MIREX2020).")
 
