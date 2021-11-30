@@ -4,7 +4,7 @@ A new polyphonic evaluation set curated for Automatic Lyrics Transcription (ALT)
 
 The statistics of DALI-TALT and other evaluation sets used in ALT research (in English language) are given below (2nd row from top):
 
-![Alt text](images/tab_data.jpg "Statistics of DALI-TALT compared to other test sets used in lyrics transcription research (including MIREX2020).")
+![Alt text](images/data_git.jpg "Statistics of DALI-TALT compared to other test sets used in lyrics transcription research (including MIREX2020).")
 
 
 The dataset contains 240 songs in English language that are released in various decades and music styles. Below is provided a description of the dataset curation procedure as explained in the paper:
