@@ -1,4 +1,4 @@
-# DALI-TALT
+# DALI -(T)estset for (A)utomatic (L)yrics (T)ranscription
 
 A new polyphonic evaluation set curated for Automatic Lyrics Transcription (ALT) research which was introduced in the paper "MSTRE-Net: Multistreaming Acoustic Modeling for Automatic Lyrics Transcription". 
 
